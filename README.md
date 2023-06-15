@@ -1,6 +1,6 @@
 # Online-Store
 
-This project is an e-commerce platform that emulates an online store, enabling users to seamlessly engage in buying and selling a diverse range of items. Developed utilizing the robust MERN (MongoDB, Express.js, React.js, Node.js) stack, along with Tailwind CSS for styling and Vite for a lightning-fast development experience. This project emphasizes a strong focus on backend implementation while maintaining essential frontend functionalities.
+This project is an e-commerce platform that emulates an online store, enabling users to engage in buying and selling a diverse range of items. Developed utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack, along with Tailwind CSS for styling and Vite for a lightning-fast development experience. This project emphasizes a strong focus on backend implementation while maintaining essential frontend functionalities.
 
 ## Technologies Utilized:
 
